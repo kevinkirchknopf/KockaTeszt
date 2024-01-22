@@ -1,0 +1,15 @@
+C:\Users\gamep\source\repos\Teglatest_Teszt\Teglatest_Teszt\bin\Debug\net7.0\Teglatest_Teszt.exe
+C:\Users\gamep\source\repos\Teglatest_Teszt\Teglatest_Teszt\bin\Debug\net7.0\Teglatest_Teszt.deps.json
+C:\Users\gamep\source\repos\Teglatest_Teszt\Teglatest_Teszt\bin\Debug\net7.0\Teglatest_Teszt.runtimeconfig.json
+C:\Users\gamep\source\repos\Teglatest_Teszt\Teglatest_Teszt\bin\Debug\net7.0\Teglatest_Teszt.dll
+C:\Users\gamep\source\repos\Teglatest_Teszt\Teglatest_Teszt\bin\Debug\net7.0\Teglatest_Teszt.pdb
+C:\Users\gamep\source\repos\Teglatest_Teszt\Teglatest_Teszt\obj\Debug\net7.0\Teglatest_Teszt.csproj.AssemblyReference.cache
+C:\Users\gamep\source\repos\Teglatest_Teszt\Teglatest_Teszt\obj\Debug\net7.0\Teglatest_Teszt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamep\source\repos\Teglatest_Teszt\Teglatest_Teszt\obj\Debug\net7.0\Teglatest_Teszt.AssemblyInfoInputs.cache
+C:\Users\gamep\source\repos\Teglatest_Teszt\Teglatest_Teszt\obj\Debug\net7.0\Teglatest_Teszt.AssemblyInfo.cs
+C:\Users\gamep\source\repos\Teglatest_Teszt\Teglatest_Teszt\obj\Debug\net7.0\Teglatest_Teszt.csproj.CoreCompileInputs.cache
+C:\Users\gamep\source\repos\Teglatest_Teszt\Teglatest_Teszt\obj\Debug\net7.0\Teglatest_Teszt.dll
+C:\Users\gamep\source\repos\Teglatest_Teszt\Teglatest_Teszt\obj\Debug\net7.0\refint\Teglatest_Teszt.dll
+C:\Users\gamep\source\repos\Teglatest_Teszt\Teglatest_Teszt\obj\Debug\net7.0\Teglatest_Teszt.pdb
+C:\Users\gamep\source\repos\Teglatest_Teszt\Teglatest_Teszt\obj\Debug\net7.0\Teglatest_Teszt.genruntimeconfig.cache
+C:\Users\gamep\source\repos\Teglatest_Teszt\Teglatest_Teszt\obj\Debug\net7.0\ref\Teglatest_Teszt.dll
